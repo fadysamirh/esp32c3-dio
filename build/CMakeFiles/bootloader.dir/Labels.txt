@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/CMakeFiles/bootloader
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/CMakeFiles/bootloader.rule
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/CMakeFiles/bootloader-complete.rule
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/fadysamir/esp/esp-idf/examples/get-started/esp_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
